@@ -60,13 +60,8 @@
 	</storageModule>
 	<storageModule moduleId="org.eclipse.cdt.core.LanguageSettingsProviders"/>
 	<storageModule moduleId="refreshScope" versionNumber="2">
-		<configuration configurationName="Multiple configurations">
-			<resource resourceType="PROJECT" workspacePath="/CDT-mgmt2-C-1src"/>
-		</configuration>
-		<configuration configurationName="release"/>
-		<configuration configurationName="Debug"/>
-		<configuration configurationName="Release">
-			<resource resourceType="FOLDER" workspacePath="/CDT-mgmt2-C-1src/build"/>
+		<configuration configurationName="Debug">
+			<resource resourceType="PROJECT" workspacePath="/proj-cx"/>
 		</configuration>
 	</storageModule>
 	<storageModule moduleId="org.eclipse.cdt.internal.ui.text.commentOwnerProjectMappings"/>
