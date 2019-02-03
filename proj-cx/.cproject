@@ -45,13 +45,12 @@
 			<storageModule buildDir="build/${ConfigName}" moduleId="de.marw.cdt.cmake.core.settings">
 				<options/>
 				<linux command="cmake" generator="UnixMakefiles" use-default="true">
-					<defs/>
-					<undefs/>
 				</linux>
 				<win32 command="cmake" generator="MinGWMakefiles" use-default="true">
-					<defs/>
-					<undefs/>
 				</win32>
+				<defs>
+					<def name="PROJNAME" type="STRING" val="PROJ_CX"/>
+				</defs>
 			</storageModule>
 		</cconfiguration>
 	</storageModule>
