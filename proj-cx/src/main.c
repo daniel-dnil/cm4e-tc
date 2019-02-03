@@ -4,8 +4,8 @@
 
 int main(void) {
 #if C1SRC == 2
-	puts("!!!Hello World!!!" );
-#endif
-	puts(FOO_CX);
 	return EXIT_SUCCESS;
+#else
+	return EXIT_SUCCESS;
+#endif
 }

@@ -50,6 +50,7 @@
 				</win32>
 				<defs>
 					<def name="PROJNAME" type="STRING" val="PROJ_CX"/>
+					<def name="CMAKE_TOOLCHAIN_FILE" type="STRING" val="toolchain.cmake"/>
 				</defs>
 			</storageModule>
 		</cconfiguration>

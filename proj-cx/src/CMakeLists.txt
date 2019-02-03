@@ -1,5 +1,5 @@
 # Policy
-cmake_minimum_required( VERSION 2.8)
+cmake_minimum_required( VERSION 3.10)
  
 # Project name
 project(proj-cx)
@@ -34,5 +34,5 @@ MESSAGE( STATUS "MYPROJ_VERSION_TXT =  ${MYPROJ_VERSION_TXT}" )
 # so that we will find config.h
 include_directories( "${CMAKE_PROJECT_NAME}" )
 add_definitions(-DC1SRC=2 -DBAR123=1)
-add_executable(EXECUTABLE main.c)
+add_library(EXECUTABLE main.c)
 
