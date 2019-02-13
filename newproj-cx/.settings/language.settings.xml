@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project>
+	<configuration id="cdt.managedbuild.config.gnu.exe.debug.1561993274" name="Debug">
+		<extension point="org.eclipse.cdt.core.LanguageSettingsProvider">
+			<provider class="de.marw.cmake.cdt.language.settings.providers.BuiltinsCompileCommandsJsonParser" id="de.marw.cmake.cdt.language.settings.providers.BuiltinsCompileCommandsJsonParser" name="CMAKE_EXPORT_COMPILE_COMMANDS Compiler Built-ins" store-entries-with-project="true"/>
+			<provider class="de.marw.cmake.cdt.language.settings.providers.CompileCommandsJsonParser" id="de.marw.cmake.cdt.language.settings.providers.CompileCommandsJsonParser" name="CMAKE_EXPORT_COMPILE_COMMANDS Parser" store-entries-with-project="true"/>
+		</extension>
+	</configuration>
+	<configuration id="cdt.managedbuild.config.gnu.exe.release.562003479" name="Release">
+		<extension point="org.eclipse.cdt.core.LanguageSettingsProvider">
+			<provider class="de.marw.cmake.cdt.language.settings.providers.BuiltinsCompileCommandsJsonParser" id="de.marw.cmake.cdt.language.settings.providers.BuiltinsCompileCommandsJsonParser" name="CMAKE_EXPORT_COMPILE_COMMANDS Compiler Built-ins" store-entries-with-project="true"/>
+			<provider class="de.marw.cmake.cdt.language.settings.providers.CompileCommandsJsonParser" id="de.marw.cmake.cdt.language.settings.providers.CompileCommandsJsonParser" name="CMAKE_EXPORT_COMPILE_COMMANDS Parser" store-entries-with-project="true"/>
+		</extension>
+	</configuration>
+</project>
